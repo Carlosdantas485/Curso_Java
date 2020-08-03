@@ -1,0 +1,18 @@
+package doWhile;
+import java.util.Scanner; 
+
+public class main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		char resp;
+		
+		do {
+			System.out.print("Digite a temperatura em celcius: ");
+			System.out.println("Equivalente em fahrenheit: %.1f%n", F);
+			System.out.println("");
+		}while (resp != 'n')
+
+	}
+
+}

@@ -1,0 +1,22 @@
+
+public class main {
+
+	public static void main(String[] args) {
+
+		String nome = "Carlos Alberto Dantas Filho";
+			
+			String convetlow = nome.toLowerCase();
+			System.out.println(convet);
+			
+			String convetUper = nome.toLowerCase();
+			System.out.println(convet);
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

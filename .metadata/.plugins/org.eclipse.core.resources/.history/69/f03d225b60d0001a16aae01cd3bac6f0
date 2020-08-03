@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int x = sc.nestInt();
+		
+		for(x ; x > 10; x++) {
+			System.out.println("ola Carlos");
+		}
+
+	}
+
+}

@@ -1,0 +1,54 @@
+
+public class main {
+
+	public static void main(String[] args) {
+
+		String nome = "  Carlos Alberto Dantas Filho  ";
+			
+			String convetLow = nome.toLowerCase();
+			System.out.println(convetLow);
+			//letras maiusculas
+			
+			String convetUpper = nome.toUpperCase();
+			System.out.println(convetUpper);
+			//letras minuscuas
+			
+			String convetTrim = nome.trim();
+			System.out.println(convetTrim);
+			//tira os espacos no inicio e no fim da frase
+			
+			String convetSubstring = nome.Substring();
+			System.out.println(convetSubstring);
+			//
+			
+			String convetTrim = nome.Substring();
+			System.out.println(convetTrim);
+			//
+			
+			String convetTrim = nome.trim();
+			System.out.println(convetTrim);
+			//
+			
+			String convetTrim = nome.trim();
+			System.out.println(convetTrim);
+			//
+			
+			String convetTrim = nome.trim();
+			System.out.println(convetTrim);
+			//
+			
+			String convetTrim = nome.trim();
+			System.out.println(convetTrim);
+			//
+			
+			String convetTrim = nome.trim();
+			System.out.println(convetTrim);
+			//
+		
+		
+		
+		
+
+	}
+
+}

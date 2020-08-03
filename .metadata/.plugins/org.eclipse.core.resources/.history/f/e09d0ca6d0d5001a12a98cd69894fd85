@@ -1,0 +1,16 @@
+package entidades;
+
+public class triangulo {
+	
+	public double medida_1;
+	public double medida_2;
+	public double medida_3;
+	
+	public static double area() {
+		double aux = (a + b + c) / 2.0;
+		
+		double result = Math.sqrt(aux * (aux - a) * (aux - b) * (aux - c));
+		
+		return result;
+	}
+}

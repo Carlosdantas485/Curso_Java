@@ -1,0 +1,21 @@
+import java .util.Locale;
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		Scanner sc= new Scanner (System.in);
+		
+		char resp = 's';
+		
+		while(resp != 'n') {
+		System.out.println("Digite a temperatura em celcius: " );
+		celcius = sc.nextDouble();
+		fahrenheit = 9.0 *c/ 5.0 + 32.0;
+		System.out.println("Equivalente em fahrenheit: %.1g%n", fahrenheit );
+		}
+		
+		sc.close();
+	}
+
+}
