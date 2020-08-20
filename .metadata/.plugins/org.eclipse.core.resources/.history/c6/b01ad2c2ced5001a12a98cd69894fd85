@@ -1,8 +1,0 @@
-package entidades;
-
-public class triangulo {
-	
-	public double medida_1;
-	public double medida_2;
-	public double medida_3;
-}
